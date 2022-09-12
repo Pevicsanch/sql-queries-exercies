@@ -1,2 +1,3 @@
-# sql-queries-exercies
-examples of some SQL queries I have worked with
+# SQL queries exercies:
+
+Here are several SQL queries I have been working with
